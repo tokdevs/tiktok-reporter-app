@@ -1,5 +1,5 @@
 # tiktok-reporter-app
-A powerful tool for reporting tiktok accounts.
+A powerful tool for reporting tiktok accounts with mass reporting method
 
 developer: https://t.me/tiktokreportapp
 
