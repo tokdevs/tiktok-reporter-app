@@ -1,4 +1,4 @@
-# tiktok-reporter-app
+ # tiktok-reporter-app
 A powerful tool for reporting tiktok accounts with mass reporting method
 
 developer: https://t.me/tiktokreportapp
@@ -31,3 +31,4 @@ bulk reporting bot
 # tiktok report bot
 tiktok bulk report tool
 # tiktok reporter
+mass reproting tiktok accounts
